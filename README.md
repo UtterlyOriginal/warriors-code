@@ -1,6 +1,6 @@
 # **The Warriors Code**
 
-### **Session: 1-2 hours**
+### **Session: ~1 hour**
 1. Sessions should be goal/project driven
 2. Limited lecture time ( <= 10-20 minutes in a given session)
     * Development best practices intertwined with Sessions
